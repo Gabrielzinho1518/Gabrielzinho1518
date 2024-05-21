@@ -71,7 +71,7 @@
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielzinho1518&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 <p
-	  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielzinho1518theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+	  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielzinho1518theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 </div>
 
