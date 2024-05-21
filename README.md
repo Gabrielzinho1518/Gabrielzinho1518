@@ -66,12 +66,10 @@
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Gabrielzinho1518" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </a> <a href="https://www.linkedin.com/in/gabriel-saccol" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<div>
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielzinho1518&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 <p
- </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -80,7 +78,7 @@
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielzinho1518&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 </p>
 </div>
