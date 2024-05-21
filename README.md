@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my perfil! 
-</br> I'm Gabriel, developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Santa Maria, Brasil</b> </p>
+</br> I'm Gabriel, developer from <b>Santa Maria, Brasil</b> </p>
 <h3>Softwares I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -32,7 +32,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
+      <a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
@@ -49,8 +49,6 @@
 </table>
 <ul>
 </ul>
-<h3><img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/></h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
 </a><br/>Currently, the weather is: <b> 6°C, <i>few clouds</i></b></br>Today, the sun rises at <b>06:44</b> and sets at <b>18:01</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Gabrielzinho1518" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
