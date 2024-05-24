@@ -17,16 +17,6 @@
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/embeddedc/embeddedc-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
 </p>
-<!-- ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=Clojure)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift) -->
 <p>
 <h2>Integrated Development Environment: </h2>
 <div style="display: inline_block"><br>
@@ -83,6 +73,9 @@
     </a>
   </div>
   <br>
+  <a href="https://github.com/mejbass">
+  <img align="left" width="150" height="150" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+</a>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielzinho1518&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
