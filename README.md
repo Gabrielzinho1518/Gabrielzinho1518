@@ -62,7 +62,6 @@
 </table>
 <ul>
 </ul>
-</a><br/>Currently, the weather is: <b> 6°C, <i>few clouds</i></b></br>Today, the sun rises at <b>06:44</b> and sets at <b>18:01</b>.</p>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/Gabrielzinho1518" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </a> <a href="https://www.linkedin.com/in/gabriel-saccol" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -76,6 +75,7 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabrielzinho1518&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+</a><br/>Currently, the weather is: <b> 6°C, <i>few clouds</i></b></br>Today, the sun rises at <b>06:44</b> and sets at <b>18:01</b>.</p>
 </p>
 </div>
 
