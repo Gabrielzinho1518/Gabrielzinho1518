@@ -1,6 +1,4 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<img width="1834" alt="Make your README" src="https://github.com/gabrielzinho1518/gabrielzinho1518/assets/130122304/71a2ede7-6de0-4c8d-b5b4-4bf5a8d334aa">
-
 <p>Welcome to my perfil! 
 </br> I'm Gabriel, developer from <b>Santa Maria, Brasil</b> </p>
 <h3>Softwares I code with</h3>
