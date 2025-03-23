@@ -1,4 +1,4 @@
-(https://github.com/user-attachments/assets/d66479db-6d9c-4b27-9172-47bfbc80afee)<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+Hey! Nice to see you.</h1>
 <p>Welcome to my perfil! 
 </br> I'm Gabriel, developer from <b>Santa Maria, Brasil</b> </p>
 <h3>Softwares I code with</h3>
